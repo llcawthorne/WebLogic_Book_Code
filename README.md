@@ -1,0 +1,3 @@
+# *Getting Started with Oracle WebLogic Server 12c: Developer's Guide* Sample Code #
+
+This is just the sample code for the book *Getting Started with Oracle WebLogic Server 12c: Developer's Guide* provided by Packt when I emailed them, since it wasn't already available by gitrepo or download from their site.  I'll probably rename the chapter folders to include the title of the chapter and clean up a few other things, but otherwise, it's just the sample code.
